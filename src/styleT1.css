@@ -1,0 +1,27 @@
+        .rectangle{
+            width: 400px;
+            height: 200px;
+            margin: auto;
+            margin-bottom: 15PX;
+            margin-top: 15px;
+        }
+
+        .first{
+            border: 3px dashed red;
+            background-color: aqua;         
+        }
+        
+        .second{
+            border: 3px dotted  red;
+            background-color: yellow;         
+        }
+        
+        .third{
+            border: 25px inset blue;
+            background-color: aqua; 
+        }
+                
+        .fourth{
+            border-left: 12px solid black;
+            background-color: aqua; 
+        }
