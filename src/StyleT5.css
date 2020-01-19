@@ -1,0 +1,103 @@
+.main{
+            width: 1065px;
+            height: 950px;
+            margin: auto;
+            padding-top: 60px;
+            padding-bottom: 60px;
+            padding-left: 50px;
+            padding-right: 50px;
+            font-family: 'Merriweather', serif;
+            font-size: 0.75rem;
+        }
+        
+        .logo{
+            width: 145px;
+            height: 40px;
+            margin-bottom: 25px;
+            
+        }
+        .header{
+            display: flex;
+            width: 100%;
+            height: 6%;
+            background-color: rgb(91,91,91);
+            margin-bottom: 40px;            
+        }
+        .goodsUP{
+            background-color: rgb(59,59,59);
+            border-right: 1px solid rgb(130,130,130);
+            border-left: 1px solid rgb(130,130,130);
+        }
+        .hedm{
+            color: white;
+        }
+        .inH{
+            display: flex;
+            width: 160px;
+            height: 100%;
+            align-items: center;
+            justify-content: center;
+        }
+        .content{
+            display: flex;
+            width: auto;
+            height: auto;
+            justify-content: space-between;
+        }
+        .menu{
+            width: 25%;
+            height: 240px;            
+        }
+        
+        .menuItem{
+            width: 100%;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            border: 1px solid gray;
+            border-bottom: 0px;
+            text-indent: 25px;
+        }
+        .bott{
+            border: 1px solid gray;
+        }
+        .phone{
+            text-indent: 40px;
+            background-color: rgb(249,249,249);
+        }
+        .mainContent{
+            width: 68%;
+            height: 590px;
+        }
+        .image{
+            width: 100%;
+            height: 377px;
+            border: 1px solid gray;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .content{
+            padding-top: 30px;
+            padding-left: 25px;
+            padding-right: 25px;            
+        }
+        .footer{
+            width: 100%;
+            height: 6%;
+            background-color: rgb(225,225,225);
+            margin-top: 40px;
+            display: flex;
+            justify-content: space-between;
+            
+        }
+        .infooter1{
+            display: flex;
+        }
+        .infooter2{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding-right: 45px;
+        }
+        
