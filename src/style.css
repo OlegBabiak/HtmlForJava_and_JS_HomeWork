@@ -1,0 +1,253 @@
+        
+        .main{
+            height: auto;
+            display: flex;
+            flex-wrap: wrap;
+            background-color: black;
+            color: azure;
+            justify-content: center;
+            font-family: 'Merriweather', serif;
+        }
+        
+        .headWr{
+            width: 90%;
+            height: 100px;
+            display: flex;
+            justify-content: center;
+        }
+        .head2Wr{
+            margin-bottom: 10px;            
+        }			  
+        .header{
+            width: 80%;
+            height: 100px;
+			color: aliceblue;
+            display: flex;
+			justify-content: space-between;
+
+        }
+        
+        .inHead1{
+            margin-top: 25px;
+        }
+        .head2Wr{
+            width: 90%;
+            height: auto;
+            display: flex;
+            justify-content: center;         
+         }        
+                
+		.head2{
+			width: 80%;
+			height: 24px;
+			display: flex;
+			justify-content: left;
+		}
+        
+        .inHead2{
+            margin-right: 30px;
+        }
+        
+        .inHead2:hover{
+            margin-right: 30px;
+            color: red;
+        }
+        
+        
+		.horse1{
+            display: flex;
+            width: 90%;
+            height: auto;
+            justify-content: center;
+		}
+        
+        
+        .midWrap{
+            width: 80%;
+            height: auto;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top: 16px;
+            margin-bottom: 16px;
+        }            
+           
+		.middle{
+			width: 90%;
+			display: flex;
+			justify-content: space-between;
+            align-items: center;
+		}
+		.inMid1_1{
+			font-size: 2.5rem;
+		}
+		.inMid2{
+			width: 15%;
+			height: 60px;
+			background-color: rgb(239,111,82);
+			display: flex;
+			justify-content: center;
+			align-items: center;
+            border: 0px;
+            padding: 0px;
+            color: white;
+            font-size: 1.1rem;
+		}
+        
+        .koni3Wrap{
+            width: 90%;
+            height: auto;
+            display: flex;
+            justify-content: center;
+            
+        }
+		
+		.koni3{
+			width: 80%;
+			display: flex;
+			justify-content: space-between;
+		}
+		.kin{
+			display: flex;
+			flex-direction: column;
+		}
+        
+        .horseSpanWrap{
+            display: flex;
+			justify-content: space-between;
+            background-color: rgb(12,12,12);
+            margin-left: 10px;
+            height: 42px;
+            align-items: center;
+        }
+
+		.horseSpan{
+            font-size: 1.5rem;
+		}
+        .hrDotted{
+            margin-bottom: 32px;
+            margin-top: 32px;
+            width: 73%;            
+        }
+        
+        .contentWrap{
+            width: 73%;
+            height: auto;
+            display: flex;
+            justify-content: space-between;
+        }
+        .content{
+            width: 350px;
+            height: auto;
+            display: flex;
+			flex-direction: column;
+        }
+        .contSpanH1{
+           font-size: 1.5rem;
+            margin-bottom: 20px;
+        }
+        
+        .contText{
+            font-family: sans-serif;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            
+        }
+        .text{
+            line-height: 1.8rem;
+        }
+        
+        .inRightC{
+            width: 37%;
+			height: 45px;
+			background-color: rgb(239,111,82);
+			display: flex;
+			justify-content: center;
+			align-items: center;
+            border: 0px;
+            padding: 0px;
+            color: white;
+            margin-top: 20px;
+        }
+        .inCenterC{
+            display: flex;
+            align-items: flex-start;
+            
+        }
+        .fonImg{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-right: 15px;
+        }
+        .numberIMG{
+            position: relative;
+            
+        }
+        .numberN{
+            position: absolute;
+            font-size: 1.8rem;
+        }
+        .hr2{
+            margin-top: 14px;
+            margin-bottom: 14px;
+        }
+        .footer{
+            width: 73%;
+            height: auto;
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 40px;
+        }
+        .inFooter250{
+            width: 250px;
+            height: auto;
+            display: flex;
+			flex-direction: column;
+        }
+        .inFooter300{
+            width: 300px;
+            height: auto;
+            display: flex;
+			flex-direction: column;
+        }
+        
+        .footerH{
+            font-size: 1.3rem;
+            margin-bottom: 20px;
+        }
+        .marker1{
+            margin-right: 6px;
+        }
+        .spanInFooter{
+            margin-bottom: 10px;
+        }
+        .preInF{
+            margin: 0;
+            font-size: 1rem;
+            font-family: auto;
+        }
+        .newsletter{
+            width: 86%;
+            height: 25px;
+            display: flex;
+        }
+        
+        .newsletterL{
+            width: 80%;
+            background-color: rgb(26,26,26);                
+        }
+        .newsletterR{
+            height: 25px;
+            width: 25px;
+            background-color: red;                
+        }
+        .grayText{
+            color: gray;
+        }
+        .redText{
+            color: red;
+        }
+        .blueText{
+            color: blue;
+        }
